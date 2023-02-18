@@ -1,0 +1,15 @@
+C:\Users\wizne\source\repos\RoShamBoLab2023\bin\Debug\net6.0\RoShamBoLab2023.exe
+C:\Users\wizne\source\repos\RoShamBoLab2023\bin\Debug\net6.0\RoShamBoLab2023.deps.json
+C:\Users\wizne\source\repos\RoShamBoLab2023\bin\Debug\net6.0\RoShamBoLab2023.runtimeconfig.json
+C:\Users\wizne\source\repos\RoShamBoLab2023\bin\Debug\net6.0\RoShamBoLab2023.dll
+C:\Users\wizne\source\repos\RoShamBoLab2023\bin\Debug\net6.0\RoShamBoLab2023.pdb
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.csproj.AssemblyReference.cache
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.AssemblyInfoInputs.cache
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.AssemblyInfo.cs
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.csproj.CoreCompileInputs.cache
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.dll
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\refint\RoShamBoLab2023.dll
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.pdb
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\RoShamBoLab2023.genruntimeconfig.cache
+C:\Users\wizne\source\repos\RoShamBoLab2023\obj\Debug\net6.0\ref\RoShamBoLab2023.dll
